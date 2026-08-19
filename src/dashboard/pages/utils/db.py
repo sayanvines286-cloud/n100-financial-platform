@@ -7,7 +7,7 @@ import streamlit as st
 
 # Project root:
 # n100-financial-platform/
-BASE_DIR = Path(__file__).resolve().parents[3]
+BASE_DIR = Path(__file__).resolve().parents[4]
 
 DB_PATH = BASE_DIR / "db" / "n100_financial.db"
 
