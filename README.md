@@ -36,4 +36,8 @@ Open:
 
 ```
 http://127.0.0.1:8000/docs
-```
+``
+## 🔗 Project Links
+
+- **GitHub Repository:** https://github.com/sayanvines286-cloud/n100-financial-platform
+- **Live Streamlit App:** https://n100-financial-platform-myvmjum7vmufrdw59qjbzi.streamlit.app/
