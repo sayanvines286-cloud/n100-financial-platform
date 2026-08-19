@@ -12,8 +12,7 @@ ROOT = Path(__file__).resolve().parents[3]
 if str(ROOT) not in sys.path:
     sys.path.append(str(ROOT))
 
-from src.dashboard.utils.db import get_connection
-
+from src.dashboard.pages.utils.db import get_connection
 
 # --------------------------------------------------
 # PAGE CONFIG
